@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/.github.io/Little-Lemon/static/css/main.1f779dbf.css",
-    "main.js": "/.github.io/Little-Lemon/static/js/main.b460f5c8.js",
-    "static/js/453.314fe416.chunk.js": "/.github.io/Little-Lemon/static/js/453.314fe416.chunk.js",
-    "static/media/restauranfood.jpg": "/.github.io/Little-Lemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
-    "static/media/Logo .svg": "/.github.io/Little-Lemon/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
-    "index.html": "/.github.io/Little-Lemon/index.html",
-    "main.1f779dbf.css.map": "/.github.io/Little-Lemon/static/css/main.1f779dbf.css.map",
-    "main.b460f5c8.js.map": "/.github.io/Little-Lemon/static/js/main.b460f5c8.js.map",
-    "453.314fe416.chunk.js.map": "/.github.io/Little-Lemon/static/js/453.314fe416.chunk.js.map"
+    "main.css": "/Little-Lemon/static/css/main.1f779dbf.css",
+    "main.js": "/Little-Lemon/static/js/main.b5f5c3f3.js",
+    "static/js/453.314fe416.chunk.js": "/Little-Lemon/static/js/453.314fe416.chunk.js",
+    "static/media/restauranfood.jpg": "/Little-Lemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/Little-Lemon/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/Little-Lemon/index.html",
+    "main.1f779dbf.css.map": "/Little-Lemon/static/css/main.1f779dbf.css.map",
+    "main.b5f5c3f3.js.map": "/Little-Lemon/static/js/main.b5f5c3f3.js.map",
+    "453.314fe416.chunk.js.map": "/Little-Lemon/static/js/453.314fe416.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f779dbf.css",
-    "static/js/main.b460f5c8.js"
+    "static/js/main.b5f5c3f3.js"
   ]
 }
